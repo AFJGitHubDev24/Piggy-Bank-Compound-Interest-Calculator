@@ -56,17 +56,12 @@ n = number of compounding periods per year
 t = number of years
 
 # 📂 Project Structure
-compound-interest-calculator/
-│
-├── static/
-│   └── style.css        # CSS styles
-│
-├── templates/
-│   └── index.html       # HTML frontend
-│
-├── app.py               # Flask app
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
+compound-interest-calculator
+1. static -> style.css        # CSS styles
+2. templates -> index.html    # HTML frontend
+3. app.py                     # Flask app
+4. requirements.txt           # Python dependencies
+5. README.md                  # Project documentation
 
 # 🌟 Future Improvements
 📊 Add interactive charts using Chart.js or Plotly
