@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Compound Interest Calculator</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+
+</head>
+<body>
+    <div class="container">
+        <h1><i class="fas fa-piggy-bank"></i> Compound Interest Calculator</h1>
+        <form method="post">
+            <label>Principal ($): <input type="text" name="principal" required></label>
+            <label>Rate (% per annum): <input type="text" name="rate" required></label>
+            <label>Time (years): <input type="text" name="time" required></label>
+            <label>Compounding Frequency:
+                <select name="frequency" required>
+                    <option value="1">Annually (1)</option>
+                    <option value="2">Semi-Annually (2)</option>
+                    <option value="4">Quarterly (4)</option>
+                    <option value="12">Monthly (12)</option>
+                    <option value="26">Bi-Weekly (26)</option>
+                    <option value="52">Weekly (52)</option>
+                    <option value="365">Daily (365)</option>
+                </select>
+            </label>
+
+            <button type="submit">Calculate</button>
+        </form>
+
+        {% if result %}
+            <div class="result">
+                {% if result.error %}
+                    <p class="error">{{ result.error }}</p>
+                {% else %}
+                    <p><strong>Total Amount:</strong> ${{ result.amount }}</p>
+                    <p><strong>Interest Earned:</strong> ${{ result.interest }}</p>
+                {% endif %}
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
