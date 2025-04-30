@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+tortoise-orm
+aiofiles
+pytest
+tortoise
+pydantic
+fitz
+PyPDF2
+pytest
+reportlab
+docx
+translate
+PyQt5
+flask
