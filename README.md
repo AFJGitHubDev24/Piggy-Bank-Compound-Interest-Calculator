@@ -74,7 +74,7 @@ compound-interest-calculator
 🔐 Add session storage for saving results
 
 # LICENSE
-This project is licensed under []().
+This project is licensed under [MIT License](LICENSE).
 
 # 🧑‍💻 Author
 Created by Alen Francis Joseph — passionate about building tools that are helpful for the mankind.
