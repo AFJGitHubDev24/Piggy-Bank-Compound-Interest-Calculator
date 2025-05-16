@@ -77,7 +77,7 @@ compound-interest-calculator
 This project is licensed under [MIT License](LICENSE).
 
 # 🧑‍💻 Author
-Created by Alen Francis Joseph [AFJGitHubDev24] — passionate about building tools that are helpful for the mankind.
+Created by Alen Francis Joseph @AFJGitHubDev24 — passionate about building tools that are helpful for the mankind.
 
 
    
