@@ -1,4 +1,5 @@
 # 🐖💼🤵Piggy-Bank-Compound-Interest-Calculator
+---
 The Compound Interest Calculator is a modern, responsive web application that helps users visualize the long-term growth of their savings and investments. Built using Python (Flask) for the backend and HTML/CSS for the frontend, this project provides a simple yet powerful tool for calculating compound interest based on user-provided financial inputs.
 
 # 🚀 Features
@@ -71,6 +72,9 @@ compound-interest-calculator
 📱 Improve mobile responsiveness
 
 🔐 Add session storage for saving results
+
+# LICENSE
+This project is licensed under []().
 
 # 🧑‍💻 Author
 Created by Alen Francis Joseph — passionate about building tools that are helpful for the mankind.
