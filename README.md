@@ -64,6 +64,9 @@ compound-interest-calculator
 4. requirements.txt           # Python dependencies
 5. README.md                  # Project documentation
 
+# 🪧 Demonstration
+https://github.com/user-attachments/assets/9e1b70fa-ae61-452b-a2f0-93a79f1b5fd9
+
 # 🌟 Future Improvements
 📊 Add interactive charts using Chart.js or Plotly
 
