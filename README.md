@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/9e1b70fa-ae61-452b-a2f0-93a79f1b5fd9
 
 🔐 Add session storage for saving results
 
-# LICENSE
+# 🪪 LICENSE
 This project is licensed under [MIT License](LICENSE).
 
 # 🧑‍💻 Author
@@ -85,7 +85,7 @@ Created by Alen Francis Joseph (@AFJGitHubDev24) — passionate about building t
 # Contact
 1. Email ID: **alenfrancis957@gmail.com**
 2. Phone number: **+91 9605197307**
-3. GitHub account username: **AFJGitHubDev24**
+3. GitHub account username: **@AFJGitHubDev24**
 4. Instagram: **https://www.instagram.com/fj.alen/**
 5. LinkedIn: **www.linkedin.com/in/alen-francis-joseph-185822277**
 6. Facebook: **https://www.facebook.com/profile.php?id=100089704713351**
